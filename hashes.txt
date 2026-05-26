@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Holding Onto Our Love
+
+This log tracks the cryptographic history and versioning for the song **Holding Onto Our Love** (holding-onto-our-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T15:51:21.057021 | `v1` | `77103a434737a6ecccb901b7d7e1eb9e4c87e73c856a4f83c9b94d7463a2f22d` | `14ae5b4c435bc5b27f5a276a1a400ebb1a5ca65549240085fec7aa6c99dc8a5f` | `2026-05-26_holding-onto-our-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

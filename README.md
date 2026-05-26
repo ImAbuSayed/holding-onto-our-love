@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/holding-onto-our-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Holding Onto Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-onto-our-love/) |
+| **Get License** | [Get a Licensing Quote for Holding Onto Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-onto-our-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `77103a434737a6ecccb901b7d7e1eb9e4c87e73c856a4f83c9b94d7463a2f22d` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
