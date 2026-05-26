@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/holding-onto-our-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Holding Onto Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-onto-our-love/) |
+| **Get License** | [Music Rights & Licensing for Holding Onto Our Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-onto-our-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the hardwood floor
+> Leave your clothes right by the bedroom door
+> Got a hunger that I can't ignore
+> I just want you closer than before
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
